@@ -1,6 +1,6 @@
 <?php
 
-print phpinfo();
+print "54.0";
 /**
 $curlobj = curl_init();
 $now = time();
