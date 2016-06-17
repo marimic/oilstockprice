@@ -1,7 +1,7 @@
 /*
 Oil Price Get and Display SketchSketch -- Arduino Zero
 Kenny Lozowski - kenny_lozowski@banffcentre.ca
-for Maria Michails 
+for Maria Michails  June 17 2016
 */
 
 #include <SPI.h> //include the library headers for the SPI Bus 
